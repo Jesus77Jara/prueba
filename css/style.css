@@ -143,3 +143,9 @@ nav ul li a:hover {
     height: 30px;
     color: red;
   }
+  footer {
+    display: flex;
+    justify-content: center;
+    color: darkblue;
+    font-family: 'Oswald', sans-serif;
+  }
