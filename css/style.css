@@ -138,3 +138,8 @@ nav ul li a:hover {
     font-family: "work san", sans-serif
     
   }
+  .gallery li .carrito svg {
+    width: 50px;
+    height: 30px;
+    color: red;
+  }
